@@ -1,0 +1,31 @@
+a{
+    color:white;
+}
+body{
+    background-color:#2F2F2F;
+    color:white;
+    font-family: d;
+}
+@font-face {
+    font-family: 'd';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+p,h1{
+    color:White
+}
+.se{
+    background-color: #646D72;
+    color:white;
+    font-family: d;
+}
+.alert{
+    background-color:#646D72;
+    color: white;
+}
+.sex{
+    color:White;
+    font-family: d;
+    background-color:#646D72;
+}
